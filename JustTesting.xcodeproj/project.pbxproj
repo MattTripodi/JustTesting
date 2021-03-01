@@ -12,6 +12,7 @@
 		A798C89D25ED8511005A5EC1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A798C89C25ED8511005A5EC1 /* Assets.xcassets */; };
 		A798C8A025ED8511005A5EC1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A798C89E25ED8511005A5EC1 /* Main.storyboard */; };
 		A798C8AA25ED8537005A5EC1 /* TestFile1.swift in Sources */ = {isa = PBXBuildFile; fileRef = A798C8A925ED8537005A5EC1 /* TestFile1.swift */; };
+		A798C8AD25ED86A3005A5EC1 /* TestFile2.swift in Sources */ = {isa = PBXBuildFile; fileRef = A798C8AC25ED86A3005A5EC1 /* TestFile2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		A798C8A125ED8511005A5EC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A798C8A225ED8511005A5EC1 /* JustTesting.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = JustTesting.entitlements; sourceTree = "<group>"; };
 		A798C8A925ED8537005A5EC1 /* TestFile1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestFile1.swift; sourceTree = "<group>"; };
+		A798C8AC25ED86A3005A5EC1 /* TestFile2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestFile2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				A798C89825ED8510005A5EC1 /* AppDelegate.swift */,
 				A798C89A25ED8510005A5EC1 /* ViewController.swift */,
 				A798C8A925ED8537005A5EC1 /* TestFile1.swift */,
+				A798C8AC25ED86A3005A5EC1 /* TestFile2.swift */,
 				A798C89C25ED8511005A5EC1 /* Assets.xcassets */,
 				A798C89E25ED8511005A5EC1 /* Main.storyboard */,
 				A798C8A125ED8511005A5EC1 /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A798C8AD25ED86A3005A5EC1 /* TestFile2.swift in Sources */,
 				A798C8AA25ED8537005A5EC1 /* TestFile1.swift in Sources */,
 				A798C89B25ED8510005A5EC1 /* ViewController.swift in Sources */,
 				A798C89925ED8510005A5EC1 /* AppDelegate.swift in Sources */,
