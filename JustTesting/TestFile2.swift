@@ -8,3 +8,5 @@
 import Foundation
 
 var test2 = "Hello Doge"
+
+var bestCoin = "Doge Coin"
