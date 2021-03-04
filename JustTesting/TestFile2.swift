@@ -10,3 +10,5 @@ import Foundation
 var test2 = "Hello Doge"
 
 var bestCoin = "Doge Coin"
+
+var idk = "I don't know"
